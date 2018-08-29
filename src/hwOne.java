@@ -5,6 +5,6 @@ public class hwOne {
 	{
 		System.out.println("Hello world");
 		System.out.println("Hello, my name is Tianyu Wei");
-		
+		System.out.println("Goodbye, I finished my CS 3700 HW1");
 	}
 }
